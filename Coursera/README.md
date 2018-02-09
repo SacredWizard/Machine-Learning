@@ -1,7 +1,7 @@
 Machine learning Course on couresera
 ====================================
 
-Machine Lwarning Course by Andrew 
+Machine Learning Course by Andrew 
 
 #Install
 
